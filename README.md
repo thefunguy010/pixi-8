@@ -1,2 +1,2 @@
 # pixi-8
-It is a 8 bit art program
+It is a 8 bit pixel art program
